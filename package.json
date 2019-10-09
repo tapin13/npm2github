@@ -1,0 +1,22 @@
+{
+  "name": "@tapin13/npm2github",
+  "version": "1.0.0",
+  "description": "test npm github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapin13/npm2github.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tapin13/npm2github/issues"
+  },
+  "homepage": "https://github.com/tapin13/npm2github#readme"
+}
