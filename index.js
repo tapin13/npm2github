@@ -1,1 +1,4 @@
-console.log('hello npm package github');
+exports.npm2github = function() {
+    console.log('hello npm package github');
+};
+
